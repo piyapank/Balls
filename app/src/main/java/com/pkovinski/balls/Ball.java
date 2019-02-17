@@ -163,6 +163,7 @@ public class Ball{
         double[] next = this.getNext();
         // Update ball scale //
              // SCALE!!!!!!!!!!!!!!!! //
+                // Updating code //
         // Update velocity //
         this.updateVelocity();
         float posX = (float) ( (next[0]));
